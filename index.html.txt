@@ -1,0 +1,10 @@
+<h1>My Project</h1>
+
+<h2>Map</h2>
+<iframe src="map.html" width="100%" height="600"></iframe>
+
+<h2>Scatter</h2>
+<iframe src="scatter.html" width="100%" height="600"></iframe>
+
+<h2>Donuts</h2>
+<iframe src="subplots.html" width="100%" height="600"></iframe>
